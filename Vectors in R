@@ -1,0 +1,15 @@
+#Basic vector syntax
+Num <- c(1,2,3)
+Num
+
+#Accessing the vectors
+Num <- c(1,2,3)
+Num[1]
+
+#Getting the length of the vector
+Num <- c(1,2,3)
+length(Num)
+
+#repeating elements
+repeat <- rep(c(1,2,3), each = 5)
+repeat
